@@ -26,7 +26,7 @@ Data Collection and Preprocessing: Collect and preprocess resale flat transactio
 
 Feature Engineering: Extract relevant features and create additional features to enhance prediction accuracy.
 
-Model Selection and Training: Choose a suitable regression model and train it on historical data.
+Model Selection and Training: Choose a suitable regression model and train it on historical data. (using linear regression, decision tree and random forests)
 
 Model Evaluation: Assess the model's predictive performance using regression metrics.
 
