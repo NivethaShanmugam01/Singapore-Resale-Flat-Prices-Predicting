@@ -32,8 +32,6 @@ Model Evaluation: Assess the model's predictive performance using regression met
 
 Streamlit Web Application: Develop a user-friendly web application using Streamlit for predicting resale prices.
 
-Deployment on Render: Deploy the Streamlit application on the Render platform for internet accessibility.
-
 Testing and Validation: Thoroughly test the deployed application to ensure functionality and accuracy.
 
 
