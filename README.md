@@ -9,4 +9,8 @@ This repository contains the code and resources for a machine learning project f
 - **Data Wrangling:** 
 - **EDA (Exploratory Data Analysis):** 
 - **Model Building:** 
-- **Model Deployment:** 
+- **Model Deployment:**
+
+## Domain
+
+- **Real Estate:**
