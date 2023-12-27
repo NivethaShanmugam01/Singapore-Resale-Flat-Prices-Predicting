@@ -14,3 +14,9 @@ This repository contains the code and resources for a machine learning project f
 ## Domain
 
 - **Real Estate:**
+
+## Problem Statement
+
+The objective is to build a predictive model that estimates resale prices of flats, considering factors such as location, flat type, storey range, floor area, flat model, and lease commence date. The model aims to provide accurate predictions to assist users in the competitive Singapore resale flat market.
+
+
