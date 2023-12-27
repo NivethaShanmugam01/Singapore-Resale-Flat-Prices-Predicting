@@ -19,4 +19,21 @@ This repository contains the code and resources for a machine learning project f
 
 The objective is to build a predictive model that estimates resale prices of flats, considering factors such as location, flat type, storey range, floor area, flat model, and lease commence date. The model aims to provide accurate predictions to assist users in the competitive Singapore resale flat market.
 
+## Scope
+The project encompasses the following tasks:
+
+Data Collection and Preprocessing: Collect and preprocess resale flat transaction data from HDB.
+
+Feature Engineering: Extract relevant features and create additional features to enhance prediction accuracy.
+
+Model Selection and Training: Choose a suitable regression model and train it on historical data.
+
+Model Evaluation: Assess the model's predictive performance using regression metrics.
+
+Streamlit Web Application: Develop a user-friendly web application using Streamlit for predicting resale prices.
+
+Deployment on Render: Deploy the Streamlit application on the Render platform for internet accessibility.
+
+Testing and Validation: Thoroughly test the deployed application to ensure functionality and accuracy.
+
 
