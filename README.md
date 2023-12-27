@@ -13,7 +13,7 @@ This repository contains the code and resources for a machine learning project f
 
 ## Domain
 
-- **Real Estate:**
+- **Real Estate**
 
 ## Problem Statement
 
